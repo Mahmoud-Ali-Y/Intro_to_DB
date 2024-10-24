@@ -1,3 +1,1 @@
-SELECT
-	name
-FROM sys.tables;
+SHOW TABLES
